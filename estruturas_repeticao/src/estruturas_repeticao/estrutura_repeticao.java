@@ -52,7 +52,6 @@ public class estrutura_repeticao {
 	}
 	
         
-	
         
 	private static double valorAleatorio() {
 		return ThreadLocalRandom.current().nextDouble(2, 8);
